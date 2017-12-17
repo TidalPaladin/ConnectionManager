@@ -1,5 +1,7 @@
 /**
  * ConnectionManager
+ * Scott Chase Waggener
+ * 12/16/17
  * 
  * This library extends WiFiManager.
  * 
@@ -11,7 +13,7 @@
 #define CONNECTION_MANAGER_H
 
 
-//#include <Arduino.h>
+#include <Arduino.h>
 #include <FS.h> 
 #include <WiFiManager.h>
 
